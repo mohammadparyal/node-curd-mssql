@@ -29,3 +29,8 @@ Start the server on Staging or Production
 ```bash
 yarn start
 ```
+
+Import Postman collection, File is available on root
+```
+Node-curd.postman_collection.json
+```
